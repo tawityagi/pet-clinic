@@ -1,10 +1,10 @@
-package com.tawi.petclinic;
+package com.tawi.petclinicweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetClinicApplicationTests {
+class PetClinicWebApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.tawi.petclinic.model;
+package com.tawi.petclinicdata.model;
 
 import java.time.LocalDate;
 

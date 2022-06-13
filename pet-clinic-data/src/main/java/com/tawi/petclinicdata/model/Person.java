@@ -1,7 +1,6 @@
-package com.tawi.petclinic.model;
+package com.tawi.petclinicdata.model;
 
 public class Person {
-
     private String firstName;
     private String lastName;
 
